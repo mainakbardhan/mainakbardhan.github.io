@@ -1,11 +1,8 @@
 ---
-title: "mainakbardhan"
+title: "Mainak Bardhan"
 ---
 
-This is a Quarto website.
+I am a highly trained Physician Scientist specializing in Genetics, Genomics, Pathology, and Epidemiology of Neurological disorders, Neuromuscular,Rare Disorders as well as infectious disorders. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
