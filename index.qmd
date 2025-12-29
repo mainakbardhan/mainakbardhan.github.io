@@ -1,8 +1,25 @@
 ---
 title: "Mainak Bardhan"
+image: "images/profile.jpg"
+toc: false
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mainakbardhan/
+    - text: GitHub
+      href: https://github.com/mainakbardhan
+    - text: Email
+      href: mailto:bardhan.mainak@gmail.com
 ---
 
 I am a highly trained Physician Scientist specializing in Genetics, Genomics, Pathology, and Epidemiology of Neurological disorders, Neuromuscular,Rare Disorders as well as infectious disorders. 
+
+
+
+      
 
 
 
