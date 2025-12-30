@@ -1,9 +1,0 @@
----
-title: "Publications"
-editor: visual
----
-
-A complete and up-to-date list of publications is available on my  {{< fa graduation-cap >}} [Google Scholar](https://scholar.google.com/citations?user=VCagZtIAAAAJ&hl=en) & {{< fa microscope >}} [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mainak+bardhan)
-
-
-Detail of my Peer review and Editorial Works {{< fa brands orcid >}} [ORCID](https://orcid.org/YOUR_ORCID) 
