@@ -4,7 +4,7 @@ title: ""
 
 ## Curriculum Vitae
 
-Download: [Mainak_Bardhan_CV.pdf](files/mainak_bardhan_CV.pdf){target="_blank"}
+Download: [mainak_bardhan_CV.pdf](files/mainak_bardhan_CV.pdf){target="_blank"}
 
 <iframe
   src="files/Mainak_Bardhan_CV.pdf"
