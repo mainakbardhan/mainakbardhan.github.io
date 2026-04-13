@@ -1,5 +1,6 @@
 ---
 title: "Mainak Bardhan"
+page-layout: full
 image: "images/profile.jpg"
 toc: false
 about: 
