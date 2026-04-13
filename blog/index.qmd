@@ -1,11 +1,11 @@
 ---
 title: "Blog"
 listing:
-  contents: blog
+  contents: .
   sort: "date desc"
   categories: true
 ---
 
 Welcome to my blog.
 
-Here I write about Precision medicine, healthcare and anything that makes me curious.
+Here I write about Precision medicine, healthcare and anything that makes me wonder.
