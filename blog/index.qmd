@@ -1,11 +1,11 @@
 ---
-title: "Blog"
+title: "N of 1"
 listing:
   contents: .
   sort: "date desc"
   categories: true
 ---
 
-Welcome to my blog.
+This is N of 1.
 
-Here I write about Precision medicine, healthcare and anything that makes me wonder.
+Most discoveries are made in thousands. This one is made in one. N of 1 is where clinical thinking meets raw curiosity — exploring precision medicine, healthcare, and the ideas that refuse to stay quiet.
